@@ -17,3 +17,4 @@ Current Project was created using JavaScrip, HTML, and CSS languages.
 
 <img width="1345" alt="Screen Shot 2020-08-31 at 2 28 54 PM" src="https://user-images.githubusercontent.com/66330168/91748509-75ab3e00-eb96-11ea-99a5-9268601be3ab.png">
 
+<img width="1326" alt="Screen Shot 2020-08-31 at 2 55 17 PM" src="https://user-images.githubusercontent.com/66330168/91750767-06cfe400-eb9a-11ea-89c6-65f01605631a.png">
